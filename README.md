@@ -86,14 +86,15 @@ docker-compose up -d --build
 
 ## 📁 Estrutura do Projeto
 
+```
 QualityOps/
-├── 📁 scripts/               # Scripts utilitários
+├── 📁 scripts/              # Scripts utilitários
 │   └── 🔄 backup.ps1        # Sistema de backup
 ├── 🐳 Dockerfile            # Imagem customizada do Jenkins
 ├── 🐙 docker-compose.yml    # Orquestração de containers
 ├── 📋 plugins.txt           # Lista de 70+ plugins
 └── 📄 README.md             # Documentação
-
+```
 
 # 📦 Plugins Incluídos
 ## 🧪 QA & Testing
